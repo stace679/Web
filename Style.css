@@ -1,7 +1,9 @@
 body {
     background-color: aquamarine;
 }
-
 P {
     color: brown;
+}
+ul{
+    background-color: blueviolet;
 }
